@@ -3,4 +3,4 @@ spring:
     name: blogger-box-backend
 
 server:
-  port: 3003
+  port: 8080
